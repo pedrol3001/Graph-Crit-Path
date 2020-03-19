@@ -1,0 +1,154 @@
+digraph {
+rankdir= LR ; 
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+INFOSOC -> IAL -> A1 -> ISC -> FTC -> BD -> LC1 -> C1 -> PE -> C2 -> CN -> AUT -> APC -> LCL -> CL -> ED -> OAC -> IIA -> LP -> SI -> SB -> CE -> PAA -> COMP -> RDS -> TP1 -> TAG -> TP2 -> SEC -> ENGSOF -> PCC -> SO
+[color = white, style=dotted];
+}
+subgraph {
+node[style=field, color=lightgrey];
+ED -> TP1 -> TP2 -> PCC -> SO
+[color = red];
+}
+INFOSOC;
+APC -> LCL;
+APC -> CL;
+APC -> ED;
+C1 -> C2;
+C1 -> PE;
+C1 -> PAA;
+ISC;
+LCL -> OAC;
+CL -> OAC;
+ED -> SB;
+ED -> TP1;
+ED -> IIA;
+ED -> TAG;
+ED -> RDS;
+ED -> CE;
+ED -> LP;
+ED -> PAA;
+ED -> SI;
+FTC -> LC1;
+IAL;
+C2 -> CN;
+TP1 -> TP2;
+TP1 -> ENGSOF;
+OAC -> SB;
+OAC -> PCC;
+PE -> CE;
+CN;
+A1 -> AUT;
+TAG;
+TP2 -> PCC;
+LC1;
+RDS -> SEC;
+PCC -> SO;
+IIA;
+ENGSOF;
+BD -> SI;
+LP -> COMP;
+SO;
+CE;
+AUT -> COMP;
+SB -> COMP;
+SI;
+COMP;
+SEC;
+PAA;
+}

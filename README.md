@@ -1,7 +1,3 @@
-Trabalho 2 de grafos 2019.2
-
-Pedro Luis Chaves Rocha
-180054635
 
 g++ grafo.cpp -o main.exe -Wall
 

@@ -1,13 +1,13 @@
-# Caminho Crítico de Componentes Curriculares de um Curso
+# Critical Path of Curricular Components of my computer science degree
 
-O padrao de pre requisitos do curso de ciência da computaçã estão presentes no arquivo pre_requisitos.txt.
+The standard prerequisites for the computer science course are present in the file pre_requisitos.txt
 
-Quanto a interface gráfica:
-
-    O programa gera arquivos txt no formato lido pelo graphiz contendo os aquivos do grafo, 
-    da ordenação topolóliga e dos 2 caminhos críticos presentes no grafo.
+Graphical interface:
     
-    Para os testes esses arquivos txt form abertos pelo gvedit pesente na pasta bin do graphiz
+    The program generates txt files in the format read by the app graphiz 
+    Contains the graph files, topological ordering and the 2 critical paths present in the graph.
+    
+    For testing these txt form files, open with gvedit pesente in the bin folder of graphiz
 
 Compile/Run:
 

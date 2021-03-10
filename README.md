@@ -1,4 +1,4 @@
-# Critical Path of Curricular Components of my computer science degree
+# Critical Path of Curricular Components of my Computer Science Degree
 
 The standard prerequisites for the computer science course are present in the file pre_requisitos.txt
 
